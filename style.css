@@ -26,6 +26,7 @@ html, body {
     position: fixed;
     justify-content: flex-start;
     z-index: 99;
+    
 }
 
 #nav img{

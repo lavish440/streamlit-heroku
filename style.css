@@ -248,15 +248,29 @@ html, body {
 #btn{
     width: 25%;
     height: 4vw;
-    background: #A8DF8E;
+    background: #a0ff74;
     border: none;
     outline: none;
     border-radius:40px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    box-shadow: 0 0 40px rgba(0, 0, 0, .1);
     cursor: pointer;
     font-size: 16px;
     color: #fff;
     font-weight: 600;
     margin-top: 7vw;
     margin-left: 2vw;
+}
+
+#hr2{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: black;
+    margin-bottom: 50px;
+}
+
+#page6{
+    height: 70vh;
+    width: 100%;  
 }

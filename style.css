@@ -214,7 +214,7 @@ html, body {
 }
 
 #page5{
-    height: 110vh;
+    height: 70vh;
     width: 100%;  
 }
 
@@ -247,7 +247,7 @@ html, body {
 
 #btn{
     width: 25%;
-    height: 45px;
+    height: 4vw;
     background: #A8DF8E;
     border: none;
     outline: none;

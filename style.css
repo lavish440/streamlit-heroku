@@ -1,3 +1,7 @@
+@font-face {
+    font-family:Poppins ;
+    src: url(resources/fonts/Poppins/);
+}
 * {
     margin: 0;
     padding: 0;

@@ -175,7 +175,7 @@ html, body {
 }
 
 #page4{
-    height: 110vh;
+    height: 90vh;
     width: 100%;
 }
 
@@ -201,4 +201,18 @@ html, body {
     margin-top: 1vw;
     padding-left: 3vw;
     padding-right: 3vw;
+}
+
+#hr1{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: black;
+    margin-bottom: 50px;
+}
+
+#page5{
+    height: 110vh;
+    width: 100%;   
 }

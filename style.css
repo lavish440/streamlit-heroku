@@ -79,22 +79,27 @@ html, body {
     width: 40%;
 }
 
-#page1 {
-    height: 100vh;
+#page2{
+    height: 150vh;
     width: 100%;
-    position: relative;
-    display: flex;
-    z-index: 10;
 }
 
-#page2{
-    height: 100vh;
-    width: 100%;
+#page2 h1{
+    text-align: center;
 }
 
 #page2 img{
     height: 20vw;
-    margin-left: 70px;
+    margin-left: 33vw;
     margin-top: 50px;
-    border-radius: 25px;
+    border-radius: 35px;
+    align-items: center;
+    justify-content: center;
+}
+
+#page2 p{
+    color: #000;
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: 1vw;
 }

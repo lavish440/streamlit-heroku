@@ -14,7 +14,7 @@ html, body {
     height: 7vw;
     width: 100%;
     display: flex;
-    background-color: #ffe5e5;
+    /*background-color: #ffe5e5;*/
     align-items: center;
     padding: 0 50px;
     gap: 5vw;
@@ -33,4 +33,12 @@ html, body {
     margin-top: 0.4vw;
     margin-left: 3vw;
     color: #304b2c;
+}
+
+#img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+    position: fixed;
+    z-index: -3;
 }

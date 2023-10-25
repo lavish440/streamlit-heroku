@@ -172,3 +172,32 @@ html, body {
     padding-left: 3vw;
     padding-right: 3vw;
 }
+
+#page4{
+    height: 110vh;
+    width: 100%;
+}
+
+#page4 h1{
+    text-align: center;
+    font-size: 3vw;
+    color: #000;
+}
+
+#page4 img{
+    height: 20vw;
+    margin-left: 34vw;
+    border-radius: 35px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vw;
+}
+
+#page4 p{
+    color: #000;
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: 1vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}

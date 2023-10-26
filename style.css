@@ -334,3 +334,16 @@ html, body {
     margin-top: -15vw;
 }
 
+#hr3{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 12px;
+    background: black;
+    margin-bottom: 50px;
+}
+
+#page7{
+    height: 180vh;
+    width: 100%;  
+}

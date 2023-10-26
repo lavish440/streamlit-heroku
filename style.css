@@ -227,6 +227,10 @@ html, body {
     margin-left: 2vw;
 }
 
+#page5 #element{
+    color: #000;
+}
+
 #page5 img{
     margin-left: 68vw;
     align-items: right;
@@ -257,7 +261,7 @@ html, body {
     font-size: 16px;
     color: #fff;
     font-weight: 600;
-    margin-top: 7vw;
+    margin-top: 6vw;
     margin-left: 2vw;
 }
 
@@ -271,6 +275,62 @@ html, body {
 }
 
 #page6{
-    height: 70vh;
+    height: 180vh;
     width: 100%;  
 }
+
+#page6 #img1{
+    height: 20vw;
+    width: 20vw;
+    align-items: left;
+    margin-left: 5vw;
+    margin-top: 10vw;
+    border-radius: 30px;
+}
+
+#page6 #p1{
+    font-size: 2vw;
+    color: #000;
+    text-align: right;
+    padding-left: 30vw;
+    margin-right: 2vw;
+    margin-top: -16vw;
+}
+
+#page6 #img2{
+    height: 20vw;
+    width: 20vw;
+    align-items: right;
+    justify-content: right;
+    border-radius: 30px;
+    margin-top: 10vw;
+    margin-left: 72vw;
+}
+
+#page6 #p2{
+    font-size: 2vw;
+    color: #000;
+    text-align: left;
+    padding-right: 30vw;
+    margin-left: 2vw;
+    margin-top: -11vw;
+}
+
+#page6 #img3{
+    height: 20vw;
+    width: 20vw;
+    align-items: left;
+    margin-left: 5vw;
+    margin-top: 10vw;
+    border-radius: 30px;
+}
+
+#page6 #p3{
+    font-size: 2vw;
+    color: #000;
+    text-align: right;
+    padding-left: 30vw;
+    margin-right: 2vw;
+    margin-top: -15vw;
+}
+
